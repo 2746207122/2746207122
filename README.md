@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Canton
-- 🌱 I’m currently learning vue3、typescript and more
 - 👯 I’m looking to collaborate on software developer or web development engineer
 - 🤔 I’m looking for help with DS & Algorithms
 - 💬 Ask me about learn
@@ -17,9 +16,9 @@ const thai = {
   tools: [Vue, Vuex, Node, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "",
+                        speaker: "",
+                        mentor: ""
                       },
  challenge: "I am doing the vue3 and typescript"
 }
