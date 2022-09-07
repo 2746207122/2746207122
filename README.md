@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on <em><b>Canton</b></em>
 - 👯 I’m looking to collaborate on <em><b>software developer</b></em> or <em><b>web development engineer</b></em>
 - 🤔 I’m looking for help with <em><b>DS & Algorithms</b></em>
-- 💬 Ask me about learn
 - 📫 How to reach me: [:penguin:](https://qm.qq.com/cgi-bin/qm/qr?k=Q9X75V5pTaXKvtaPNlW1eKgeV7sYjZav&noverify=0&personal_qrcode_source=4)
 - ⚡ Fun fact: love food
 
