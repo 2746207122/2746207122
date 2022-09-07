@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Canton
-- 🌱 I’m currently learning vue3、typescript、...more
+- 🌱 I’m currently learning vue3、typescript and more
 - 👯 I’m looking to collaborate on software developer or web development engineer
 - 🤔 I’m looking for help with DS & Algorithms
 - 💬 Ask me about learn
