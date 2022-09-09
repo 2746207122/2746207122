@@ -6,7 +6,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[:iphone:](https://qm.qq.com/cgi-bin/qm/qr?k=Q9X75V5pTaXKvtaPNlW1eKgeV7sYjZav&noverify=0&personal_qrcode_source=4)。
+- 💬 如果你对我感兴趣，可以加我[:iphone:](https://qm.qq.com/cgi-bin/qm/qr?k=Q9X75V5pTaXKvtaPNlW1eKgeV7sYjZav&noverify=0&personal_qrcode_source=4)QQ。
 - 📫 我的邮箱: [2746207122@qq.com](mailto:2746207122@qq.com);
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/105185005278023)
 
